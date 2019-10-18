@@ -9,3 +9,13 @@ Some built-in component used: Camera,BarCodeScanner,Permission.
 支付: ? 可能后端
 
 ## Problems
+
+## 文件目录
+
+api
+components 可复用的纯UI组件
+constants
+helpers 辅助方法 ?
+redux
+navigation
+screen
