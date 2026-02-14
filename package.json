@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "babel-preset-expo": "^7.0.0",
-    "jest-expo": "^35.0.0",
+    "jest-expo": "^54.0.17",
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6"
   },
